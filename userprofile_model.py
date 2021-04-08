@@ -3,7 +3,7 @@
 Esraa please note that to use CountryField
  you will do the following:
 1-pip install django-countries
-2- you will  'django_countries' to you settings' installed apps,
+2- you will add 'django_countries' to you settings' installed apps,
 may you do not need it but it's simple to setup and adds value to your app
 
 
